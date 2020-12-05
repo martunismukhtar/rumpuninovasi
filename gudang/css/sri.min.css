@@ -1,0 +1,25 @@
+.logo {
+  margin-top: 15px;
+}
+
+#menu {
+    margin-top: 35px;
+    float: right;
+}
+
+.gallery {
+    height: 150px;
+}
+
+.camera_caption h2{
+    font-size: 50px;
+}
+
+.camera_caption {
+  top : 50px;
+  left: 0;
+}
+
+.forma {
+     margin-bottom: 0px; 
+   }

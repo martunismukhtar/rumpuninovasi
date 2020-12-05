@@ -1,0 +1,79 @@
+.headerLine {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+    background: url(../images/bgTop.jpg) center center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.line2{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	height:100%;
+	background: url(../images/bgTop.jpg) center center no-repeat;
+	/*background:url(../images/line2.png) center center no-repeat;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.lineBlack {
+  margin-top: 20px;
+}
+
+.lineBlack:before {
+  background: none;
+  height: 5px;
+}
+
+.downLine {
+  margin-top: 20px;
+}
+
+.dropdown-menu {
+    background-color:#4f9e9e !important;
+    margin: 0;
+    padding: 10px;
+    border: none !important;
+}
+
+.dropdown-menu li {
+  padding: 0px !important;
+      margin: 0px !important;
+      border: none !important;
+}
+
+.dropdown-menu li a {
+    padding: 3px 10px;
+}
+
+.isipage {
+  padding: 10px;
+  text-align: justify;
+}
+#menu .active a {
+  color: #fff !important;
+}
+#menu li.active  {
+  background-color: #4f9e9e;
+  border-radius: 5px 5px 5px 5px;
+-moz-border-radius: 5px 5px 5px 5px;
+-webkit-border-radius: 5px 5px 5px 5px;
+}
+
+#menu li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-right: 0px solid #000;
+}
+
+.dropdown-menu > li > a:hover {
+  background-color: #428bca;
+  color: #000;
+}
