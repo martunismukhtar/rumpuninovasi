@@ -12,7 +12,6 @@
     <link href="<?php echo base_url('gudang/ri/css/font-awesome.css');?>" rel="stylesheet">
     
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
-    <link href="http://localhost/templatepoltekes/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     
     <!-- Bootstrap -->
     <link href="<?php echo base_url('gudang/ri/css/bootstrap.css');?>" rel="stylesheet">    
